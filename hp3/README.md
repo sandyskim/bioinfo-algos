@@ -59,4 +59,4 @@ To obtain full credit you must obtain the following thresholds.
 |-----------|----------|----------|-------------|
 | Undergrad | 87       | 43       | 5           |
 | Grad      | 92       | 48       | 8           |
-|           |          |          |             |
+| My score  | 87.37    | 48       | 14.85       |
