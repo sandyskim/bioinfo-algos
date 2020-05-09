@@ -97,7 +97,7 @@ def remove_tips(graph):
                     if node_to_remove in next_nodes:
                         for i in range(next_nodes.count(node_to_remove)):
                             next_nodes.remove(node_to_remove)
-                        outdegree[gnode] -= 1
+                            outdegree[gnode] -= 1
                 outdegree.pop(onode)
     return graph 
                                    
