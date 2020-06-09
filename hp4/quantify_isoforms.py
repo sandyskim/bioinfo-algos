@@ -2,8 +2,6 @@ import argparse
 import zipfile
 import numpy as np
 from collections import defaultdict
-import math
-import re
 
 def parse_annotation_file(annotation_fn):
     """
